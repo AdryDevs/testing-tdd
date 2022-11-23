@@ -1,0 +1,23 @@
+{
+  "name": "fsd-vlc-2022-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeeksHubsAcademy/fsd-vlc-2022-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeeksHubsAcademy/fsd-vlc-2022-testing/issues"
+  },
+  "homepage": "https://github.com/GeeksHubsAcademy/fsd-vlc-2022-testing#readme",
+  "dependencies": {
+    "almost-equal": "^1.1.0"
+  }
+}
